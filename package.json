@@ -1,0 +1,18 @@
+{
+  "name": "scrape_quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape_quotes.js",
+  "scripts": {
+    "start": "node scrape_quotes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.4.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "type": "module"
+}
